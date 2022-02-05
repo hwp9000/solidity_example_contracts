@@ -1,4 +1,5 @@
-# solidity_example_contracts
+# Solidity Example Contracts
+
 This is a collection of example solidity contracts that I created during a solidity bootcamp.
 
 Look through these examples as you wish.
